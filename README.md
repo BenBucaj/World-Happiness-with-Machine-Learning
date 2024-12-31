@@ -75,13 +75,13 @@ Average Logistic Regression Accuracy: 0.9528979805927091
 ### Broader Impact
 <ul>
   <li>
-    Improved Global Stability: Happier nations are often healthier, more productive, and more stable politically and economically.
+    <b>Improved Global Stability:</b> Happier nations are often healthier, more productive, and more stable politically and economically.
   </li>
   <li>
-    Social Equity: Policies that enhance happiness often reduce inequality, fostering more inclusive societies.
+    <b>Social Equity:</b> Policies that enhance happiness often reduce inequality, fostering more inclusive societies.
   </li>
   <li>
-    Inspiration for Developing Nations: The index serves as a framework for nations striving to improve the quality of life despite economic limitations.
+    <b>Inspiration for Developing Nations:</b> The index serves as a framework for nations striving to improve the quality of life despite economic limitations.
   </li>
 </ul>
 
