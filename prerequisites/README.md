@@ -128,6 +128,11 @@ pip3 install seaborn
 </h1>
 
 [![PyPi](https://img.shields.io/pypi/v/scikit-learn)](https://pypi.org/project/scikit-learn/)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/scikit-learn.svg?label=PyPI%20downloads)](
+https://pypi.org/project/scikit-learn/)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-Ask%20questions-blue.svg)](
+https://stackoverflow.com/questions/tagged/scikit-learn)
+[![Package Status](https://img.shields.io/pypi/status/scikit-learn.svg)](https://pypi.org/project/scikit-learn/)
 
 #### Description
 scikit-learn is a machine learning library, which offers various classification, regression and clustering algorithms.
