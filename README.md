@@ -1,5 +1,10 @@
 ## Description
 Using classic machine learning models to understand driving factors of happiness globally
+#### Project goal
+<ul>
+  <li>Analyze the World Happiness Report to identify factors driving happiness</li>
+  <li>Ultimately, provide actionable insights for policymakers to improve well-being globally</li>
+</ul>
 
 ## Installations
 Check [./prerequisites](https://github.com/FilipLe/World-Happiness/tree/main/prerequisites) for more
