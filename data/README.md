@@ -3,6 +3,7 @@ Kaggle, World Happiness Report: https://www.kaggle.com/datasets/unsdsn/world-hap
 
 
 ## Preprocessing
+For full code for preprocessing, find the below subheadings in the [notebook](https://github.com/FilipLe/World-Happiness/blob/main/src/Happiness_Project.ipynb)
 ##### 1. Combining Datasets 
 ==> 5 .csv files for each year into 1 big DataFrame
 ##### 2. Dropping Redundant + Duplicate Values
@@ -15,7 +16,7 @@ Kaggle, World Happiness Report: https://www.kaggle.com/datasets/unsdsn/world-hap
 ==> Create a binary target variable that distinguishes high-ranking (top 20 = (1)) from lower-ranking countries (non-top 20 = (0))
 
 ##### 5. Shuffle dataset to prevent weird training
-For precise code, find the above subheadings in the [notebook](https://github.com/FilipLe/World-Happiness/blob/main/src/Happiness_Project.ipynb)
+
 ## Feature Engineering
 Since existing features after cleaning the raw data were good enough, there was no need to create new features, but just to adjust existing ones to enhance the model's performance.
 ### Scaling Data
