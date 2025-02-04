@@ -1,5 +1,17 @@
 ## Description
 Using classic machine learning models to understand driving factors of happiness globally
+
+## About the Data: World Happiness Report & the United Nations
+The **World Happiness Report** is an annual publication that ranks countries based on happiness metrics derived from **Gallup World Poll** data. It is produced by the **Sustainable Development Solutions Network (SDSN)**, an initiative of the **United Nations**. The report evaluates happiness based on key factors such as:
+- **GDP per capita**
+- **Social support (family & friends)**
+- **Healthy life expectancy**
+- **Freedom to make life choices**
+- **Generosity**
+- **Perceptions of corruption**
+
+This project leverages machine learning models to analyze these factors and extract meaningful insights. By studying these trends, policymakers can develop **data-driven strategies** aligned with the **UN’s Sustainable Development Goals (SDGs)** to improve well-being globally.
+
 #### Project goal
 <ul>
   <li>Analyze the World Happiness Report to identify factors driving happiness</li>
@@ -56,7 +68,7 @@ Average Lasso Accuracy: 0.9504656311556591
 Average Random Forest Accuracy: 0.9610149488591659
 Average Logistic Regression Accuracy: 0.9528979805927091
 ```
-==> Random Forest is the best
+==> Random Forest achieved the highest accuracy, making it the best-performing model.
 
 ## Key Takeaways
 <ul>
@@ -92,7 +104,7 @@ Average Logistic Regression Accuracy: 0.9528979805927091
 
 
 ## Authors
-[Nguyen Le](https://www.linkedin.com/in/nguyenle04/)
-<br>[Ben Bucaj](https://www.linkedin.com/in/ben-bucaj/)
+[Ben Bucaj](https://www.linkedin.com/in/ben-bucaj/)
+<br>[Nguyen Le](https://www.linkedin.com/in/nguyenle04/)
 <br>[Ryan Rodriguez](https://www.linkedin.com/in/ryanrodriguez-/)
 <br>[Belen Ramirez](https://www.linkedin.com/in/belenramirezp/)
